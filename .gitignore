@@ -22,7 +22,10 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+<<<<<<< HEAD
 
 .settings/
 .project
 .classpath
+=======
+>>>>>>> 6a92cd6682506543663c6ae8f5e267826dd4f078
